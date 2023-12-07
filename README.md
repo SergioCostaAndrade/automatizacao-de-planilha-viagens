@@ -40,7 +40,7 @@ automaticamente a quantidade de diárias. No final da inclusão de todas as diá
 
 ## As telas das abas das planilhas podem ser vistas nos arquivos .pdf anexos.
 
-## Esta aplicação roda quando a plnilha no Google Sheets é executada.
+## Esta aplicação roda quando a planilha no Google Sheets é executada.
 
 
 

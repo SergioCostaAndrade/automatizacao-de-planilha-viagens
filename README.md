@@ -33,8 +33,7 @@
 ### tipo de veículo, 
 ### placa do veículo e 
 ### justificativa da viagem.
-## - Programação de viagen, onde nas linhas da planilha obteos nas colunas respectivas as informações que estão na aba Banco de Dados, e complementamos com data início e fim da viagem. A planilha calcula
-automaticamente a quantidade de diárias. No final da inclusão de todas as diárias do momento, o usuário registra o caractere "X" ou "x" na coluna Solicitar Diária e clica no botão Azul no cabeçalho da aba. O script JS vai somar a quantidade de diárias para cada motodista, e atualizar na aba Motoristas x Diárias, gerar registro na aba Solicita Pagamento de Diária. Esta última aba tem um script do AUTOCRAT que dispara, automaticamente, a geração de documento .pdf contendo todas as informações do pedido de diária que deverá ser enviado à empresa que paga as diárias dos motoristas. Ao final, este script envia este documento .pdf por email.
+## - Programação de viagen, onde nas linhas da planilha obteos nas colunas respectivas as informações que estão na aba Banco de Dados, e complementamos com data início e fim da viagem. A planilha calcula automaticamente a quantidade de diárias. No final da inclusão de todas as diárias do momento, o usuário registra o caractere "X" ou "x" na coluna Solicitar Diária e clica no botão Azul no cabeçalho da aba. O script JS vai somar a quantidade de diárias para cada motodista, e atualizar na aba Motoristas x Diárias, gerar registro na aba Solicita Pagamento de Diária. Esta última aba tem um script do AUTOCRAT que dispara, automaticamente, a geração de documento .pdf contendo todas as informações do pedido de diária que deverá ser enviado à empresa que paga as diárias dos motoristas. Ao final, este script envia este documento .pdf por email.
 
 ## Esta automação da rotina inicial otimizou muito o trabalho da empresa, que liberou tempo para que o usuário fizesse novas atividades.
 

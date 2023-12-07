@@ -34,6 +34,8 @@ automaticamente a quantidade de diárias. No final da inclusão de todas as diá
 
 ## Esta automação da rotina inicial otimizou muito o trabalho da empresa, que liberou tempo para que o usuário fizesse novas atividades.
 
+## As telas das abas das planilhas podem ser vistas nos arquivos .pdf anexos.
+
 
 
   
